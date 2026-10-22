@@ -11,4 +11,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: awesome-lint
-        run: ./.github/workflows/repo_linter.sh
+        run: ./.github/workflows/repo_linter.sher
